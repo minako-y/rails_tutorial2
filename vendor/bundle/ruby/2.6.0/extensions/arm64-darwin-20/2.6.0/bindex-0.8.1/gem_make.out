@@ -1,0 +1,15 @@
+current directory: /Users/yamamuraminako/Desktop/自主学習/Rails_tutorial/rails_tutorial2/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/yamamuraminako/.rbenv/versions/2.6.8/bin/ruby -I /Users/yamamuraminako/.rbenv/versions/2.6.8/lib/ruby/2.6.0 -r ./siteconf20211026-56376-lgbffh.rb extconf.rb
+creating Makefile
+
+current directory: /Users/yamamuraminako/Desktop/自主学習/Rails_tutorial/rails_tutorial2/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/yamamuraminako/Desktop/自主学習/Rails_tutorial/rails_tutorial2/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/yamamuraminako/Desktop/自主学習/Rails_tutorial/rails_tutorial2/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20211026-56376-e9au7d/skiptrace/internal
